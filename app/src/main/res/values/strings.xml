@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Intuit Coding Challenge</string>
+    <string name="leftimagedrawable">leftImageDrawable</string>
+    <string name="testOneText">test 1 working</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomCardview">
+        <attr name="selectedForegroundColor" format="color"/>
+        <attr name="selectedInputText" format="string"/>
+        <attr name="leftImageDrawableSource" format="reference"/>
+    </declare-styleable>
+</resources>
